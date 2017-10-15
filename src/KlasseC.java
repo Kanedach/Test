@@ -18,5 +18,9 @@ public class KlasseC {
 		System.out.println("Hello World!");
 	}
 	
+	public void helloWorld() {
+		System.out.println("Hello World!");
+	}
+	
 	
 }
