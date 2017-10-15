@@ -1,4 +1,8 @@
 /bin/
 /.classpath
+<<<<<<< HEAD
 /.project
 /.gitignore
+=======
+/.project
+>>>>>>> refs/remotes/origin/master
