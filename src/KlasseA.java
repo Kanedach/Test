@@ -17,7 +17,7 @@ public class KlasseA {
 	}
 	
 	public void doTest(){
-		//test
+		//test1
 	}
 	
 	//test
