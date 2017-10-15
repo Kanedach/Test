@@ -15,5 +15,7 @@ public class KlasseA {
 	public void doNothing(){
 		//test
 	}
+	
+	//test
 
 }
