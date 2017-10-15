@@ -11,5 +11,9 @@ public class KlasseB {
 	public void helloWorld() {
 		//Hallo
 	}
+	
+	public String getString(){
+		return this.a;
+	}
 
 }
