@@ -14,4 +14,8 @@ public class KlasseC {
 		this.test = a;
 	}
 	
+	public KlasseC() {
+		System.out.println("Hello World!");
+	}
+	
 }
