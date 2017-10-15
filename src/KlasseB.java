@@ -5,5 +5,9 @@ public class KlasseB {
 	public KlasseB(String a){
 		this.a = a;
 	}
+	
+	public String getString(){
+		return this.a;
+	}
 
 }
