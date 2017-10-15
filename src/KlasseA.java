@@ -11,5 +11,9 @@ public class KlasseA {
 		String test ="Das ist ein Test";
 		return test;	
 	}
+	
+	public void doNothing(){
+		//test Kommentar
+	}
 
 }
