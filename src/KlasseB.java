@@ -15,5 +15,9 @@ public class KlasseB {
 	public String getString(){
 		return this.a;
 	}
+	
+	private int hello() {
+		return 1;
+	}
 
 }
