@@ -4,6 +4,7 @@ public class KlasseA {
 	
 	public KlasseA(){
 		this.test = 0;
+		System.out.println("Hello World");
 	}
 
 }
