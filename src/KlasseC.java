@@ -12,14 +12,11 @@ public class KlasseC {
 	
 	public KlasseC(int a) {
 		this.test = a;
-	}¨
-	
-	public KlasseC() {
-		System.out.println("Hello World!");
 	}
 	
 	public KlasseC() {
 		System.out.println("Hello World!");
 	}
+	
 	
 }
