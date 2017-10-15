@@ -16,6 +16,10 @@ public class KlasseA {
 		//test
 	}
 	
+	public void doTest(){
+		//test
+	}
+	
 	//test
 
 }
