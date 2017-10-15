@@ -22,5 +22,9 @@ public class KlasseC {
 		System.out.println("Hello World!");
 	}
 	
+	public void test() {
+		
+	}
+	
 	
 }
