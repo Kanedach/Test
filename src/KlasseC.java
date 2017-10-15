@@ -12,6 +12,7 @@ public class KlasseC {
 	
 	public KlasseC(int a) {
 		this.test = a;
+		//Hallo
 	}
 	
 	public KlasseC() {
