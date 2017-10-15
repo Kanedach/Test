@@ -17,7 +17,7 @@ public class KlasseB {
 	}
 	
 	private int hello() {
-		System.out.println();
+
 		return 1;
 	}
 
