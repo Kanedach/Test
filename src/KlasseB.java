@@ -9,7 +9,7 @@ public class KlasseB {
 	}
 	
 	public void helloWorld() {
-		//Hallo
+		//Hallo Nase
 	}
 	
 	public String getString(){
