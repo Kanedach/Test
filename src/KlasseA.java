@@ -8,7 +8,7 @@ public class KlasseA {
 	}
 	
 	
-	
+	//
 	public String toString(){
 		String test ="Das ist ein Test";
 		return test;	
