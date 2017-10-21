@@ -20,6 +20,6 @@ public class KlasseA {
 		//test11
 	}
 	
-	//test
+	//test/
 
 }
