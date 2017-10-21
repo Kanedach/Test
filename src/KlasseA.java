@@ -7,6 +7,8 @@ public class KlasseA {
 		System.out.println("Hello World");
 	}
 	
+	
+	//
 	public String toString(){
 		String test ="Das ist ein Test";
 		return test;	
@@ -15,5 +17,11 @@ public class KlasseA {
 	public void doNothing(){
 		//test
 	}
+	
+	public void doTest(){
+		//test11
+	}
+	
+	//test/
 
 }

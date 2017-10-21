@@ -9,7 +9,9 @@ public class KlasseB {
 	}
 	
 	public void helloWorld() {
+
 		//Hallo Nase
+
 	}
 	
 	public String getString(){

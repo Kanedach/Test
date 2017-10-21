@@ -27,5 +27,7 @@ public class KlasseC {
 		
 	}
 	
+	//test
+	
 	
 }
