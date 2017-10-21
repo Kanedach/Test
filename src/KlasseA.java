@@ -7,7 +7,7 @@ public class KlasseA {
 		System.out.println("Hello World");
 	}
 	
-	//
+	
 	
 	public String toString(){
 		String test ="Das ist ein Test";
